@@ -5,8 +5,8 @@
 
 
 
-- 🔭 Eu atualmente não estou trabalhando...
-- 🌱 Atualmente estou estudando front-end mais especificamente HTML, CSS e Javascript 
+- 🔭 Eu atualmenteestou trabalhando na Growth Lion 
+- 🌱 Atualmente estou estudando front-end mais especificamente HTML, CSS e Javascript e Wordpress
 - 🤔 Estou compartilhando todo o meu conhecimento que estou adquirindo nos meus repositórios e procuro ajuda para dicas e para qualquer conhecimento que possam agregar sobre programação!
 - 💬 Me pergunte sobre tais assuntos se estiver iniciando em programação, adoro ajudar pessoas que estão passando pelo mesmo que passei
 
